@@ -1,0 +1,8 @@
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\bin\Debug\L100 - Variables.exe.config
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\bin\Debug\L100 - Variables.exe
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\bin\Debug\L100 - Variables.pdb
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\obj\Debug\L100 - Variables.csproj.AssemblyReference.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\obj\Debug\L100 - Variables.csproj.SuggestedBindingRedirects.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\obj\Debug\L100 - Variables.csproj.CoreCompileInputs.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\obj\Debug\L100 - Variables.exe
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L100 - Variables\obj\Debug\L100 - Variables.pdb

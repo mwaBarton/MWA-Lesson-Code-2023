@@ -10,6 +10,18 @@ namespace L100___Variables
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+
+            int age;
+            Console.Write("What is your age: ");
+            age = int.Parse(Console.ReadLine());
+            Console.WriteLine(age);
+
+
+            Console.WriteLine("Hello " + name);
+            Console.WriteLine("Goodbye, world!");
+            Console.ReadKey();
         }
     }
 }
