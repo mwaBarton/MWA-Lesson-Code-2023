@@ -1,0 +1,8 @@
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\bin\Debug\L101 - If.exe.config
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\bin\Debug\L101 - If.exe
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\bin\Debug\L101 - If.pdb
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\obj\Debug\L101 - If.csproj.AssemblyReference.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\obj\Debug\L101 - If.csproj.SuggestedBindingRedirects.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\obj\Debug\L101 - If.csproj.CoreCompileInputs.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\obj\Debug\L101 - If.exe
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L101 - If\obj\Debug\L101 - If.pdb
