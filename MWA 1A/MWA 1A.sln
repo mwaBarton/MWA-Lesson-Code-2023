@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L100 - Variables", "L100 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L101 - If", "L101 - If\L101 - If.csproj", "{D6D3B2D7-33CF-44F6-B0DA-A22426B0E63D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L102 - Types and Conversions", "L102 - Types and Conversions\L102 - Types and Conversions.csproj", "{DDF4E9EB-4B73-4FD8-BCBD-48D4365BE75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D6D3B2D7-33CF-44F6-B0DA-A22426B0E63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6D3B2D7-33CF-44F6-B0DA-A22426B0E63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6D3B2D7-33CF-44F6-B0DA-A22426B0E63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF4E9EB-4B73-4FD8-BCBD-48D4365BE75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF4E9EB-4B73-4FD8-BCBD-48D4365BE75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF4E9EB-4B73-4FD8-BCBD-48D4365BE75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF4E9EB-4B73-4FD8-BCBD-48D4365BE75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

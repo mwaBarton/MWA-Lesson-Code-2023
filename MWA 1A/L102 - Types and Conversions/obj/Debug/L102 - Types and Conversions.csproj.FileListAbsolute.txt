@@ -1,0 +1,8 @@
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\bin\Debug\L102 - Types and Conversions.exe.config
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\bin\Debug\L102 - Types and Conversions.exe
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\bin\Debug\L102 - Types and Conversions.pdb
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.csproj.AssemblyReference.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.csproj.SuggestedBindingRedirects.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.csproj.CoreCompileInputs.cache
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.exe
+H:\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.pdb
