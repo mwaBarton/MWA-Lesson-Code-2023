@@ -1,0 +1,8 @@
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\bin\Debug\L102 - Types and Conversions.exe.config
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\bin\Debug\L102 - Types and Conversions.exe
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\bin\Debug\L102 - Types and Conversions.pdb
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.csproj.AssemblyReference.cache
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.csproj.SuggestedBindingRedirects.cache
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.csproj.CoreCompileInputs.cache
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.exe
+\\titan\home\Staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L102 - Types and Conversions\obj\Debug\L102 - Types and Conversions.pdb
