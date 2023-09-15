@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L100 - Variables", "L100 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L101 - If", "L101 - If\L101 - If.csproj", "{1CD67545-0451-4F49-91D2-25683EE04713}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L102 - Types and Conversions", "L102 - Types and Conversions\L102 - Types and Conversions.csproj", "{1983E4BB-16EE-4849-8602-C8D5F32F28B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1CD67545-0451-4F49-91D2-25683EE04713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CD67545-0451-4F49-91D2-25683EE04713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CD67545-0451-4F49-91D2-25683EE04713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1983E4BB-16EE-4849-8602-C8D5F32F28B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1983E4BB-16EE-4849-8602-C8D5F32F28B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1983E4BB-16EE-4849-8602-C8D5F32F28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1983E4BB-16EE-4849-8602-C8D5F32F28B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
