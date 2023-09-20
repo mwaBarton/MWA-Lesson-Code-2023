@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\bin\Debug\L104 - Switch.exe.config
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\bin\Debug\L104 - Switch.exe
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\bin\Debug\L104 - Switch.pdb
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\obj\Debug\L104 - Switch.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\obj\Debug\L104 - Switch.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\obj\Debug\L104 - Switch.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\obj\Debug\L104 - Switch.exe
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L104 - Switch\obj\Debug\L104 - Switch.pdb
