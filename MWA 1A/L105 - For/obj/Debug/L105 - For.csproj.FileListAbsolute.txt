@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\bin\Debug\L105 - For.exe.config
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\bin\Debug\L105 - For.exe
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\bin\Debug\L105 - For.pdb
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\obj\Debug\L105 - For.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\obj\Debug\L105 - For.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\obj\Debug\L105 - For.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\obj\Debug\L105 - For.exe
+\\titan\home\staff\MWA\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L105 - For\obj\Debug\L105 - For.pdb
