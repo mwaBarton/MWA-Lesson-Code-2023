@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L104 - Switch", "L104 - Swi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L105 - For", "L105 - For\L105 - For.csproj", "{97A0A7CF-EA6E-4BC1-B89A-7CC58282CE6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L108 - Iteration", "L108 - Iteration\L108 - Iteration.csproj", "{84C9DA4B-F310-4601-98B4-088C0621977C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{97A0A7CF-EA6E-4BC1-B89A-7CC58282CE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97A0A7CF-EA6E-4BC1-B89A-7CC58282CE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97A0A7CF-EA6E-4BC1-B89A-7CC58282CE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C9DA4B-F310-4601-98B4-088C0621977C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C9DA4B-F310-4601-98B4-088C0621977C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C9DA4B-F310-4601-98B4-088C0621977C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C9DA4B-F310-4601-98B4-088C0621977C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
