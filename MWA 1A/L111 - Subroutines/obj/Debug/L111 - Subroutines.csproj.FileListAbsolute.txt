@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\bin\Debug\L111 - Subroutines.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\bin\Debug\L111 - Subroutines.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\bin\Debug\L111 - Subroutines.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\obj\Debug\L111 - Subroutines.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\obj\Debug\L111 - Subroutines.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\obj\Debug\L111 - Subroutines.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\obj\Debug\L111 - Subroutines.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L111 - Subroutines\obj\Debug\L111 - Subroutines.pdb

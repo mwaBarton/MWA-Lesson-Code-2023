@@ -8,7 +8,9 @@ namespace L109___Random
         {
             Random prng = new Random();
 
-            if (prng.NextDouble() < 0.45)
+            double prob = 0.6;
+
+            if (prng.NextDouble() < 1 - prob)
             {
                 Console.WriteLine("It happened");
             }

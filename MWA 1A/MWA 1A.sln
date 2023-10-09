@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L108 - While", "L108 - Whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L109 - Random", "L109 - Random\L109 - Random.csproj", "{07DB1BD1-788C-4BD2-BB83-43ACC998D958}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L111 - Subroutines", "L111 - Subroutines\L111 - Subroutines.csproj", "{BAAF9E9E-F889-4B84-932F-3032ED66E4B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{07DB1BD1-788C-4BD2-BB83-43ACC998D958}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07DB1BD1-788C-4BD2-BB83-43ACC998D958}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07DB1BD1-788C-4BD2-BB83-43ACC998D958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAF9E9E-F889-4B84-932F-3032ED66E4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAF9E9E-F889-4B84-932F-3032ED66E4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAF9E9E-F889-4B84-932F-3032ED66E4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAF9E9E-F889-4B84-932F-3032ED66E4B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
