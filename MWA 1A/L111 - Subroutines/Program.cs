@@ -27,14 +27,39 @@ namespace L111___Subroutines
 
         static void Main(string[] args)
         {
+            Console.Write("Choose a colour: ");
+            string input = Console.ReadLine();
+            InitialiseConsoleColour(input, false);
+
             // Call the subroutine
             SayHello();
-
             Console.WriteLine("Something else");
-
             SayHello();
 
             Console.ReadKey();
+        }
+        // Parameter (aka Input/Argument)
+        static void InitialiseConsoleColour(string colour, bool message)
+        {
+            switch (colour.ToLower())
+            {
+                case "green":
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    break;
+                case "magenta":
+                case "pink":
+                    Console.ForegroundColor = ConsoleColor.Magenta;
+                    break;
+                case "blue":
+                case "cyan":
+                    Console.ForegroundColor = ConsoleColor.Cyan;
+                    break;
+            }
+
+            if (message)
+            {
+                Console.WriteLine($"Console colour was changed to '{colour}'");
+            }
         }
     }
 }
