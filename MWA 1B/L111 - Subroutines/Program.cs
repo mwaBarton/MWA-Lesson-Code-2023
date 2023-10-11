@@ -27,16 +27,30 @@ namespace L111___Subroutines
         {
             string favColour = "Magenta";
 
-            Console.ForegroundColor = (ConsoleColor) Enum.Parse(typeof(ConsoleColor), favColour);
+            SetConsoleColour(favColour, true);
 
 
             SayHello();
 
             Console.WriteLine("does soemthing");
 
+            SetConsoleColour("Green", false);
+
             SayHello();
 
             Console.ReadKey();
+        }
+
+        static void SetConsoleColour(string colour, bool message)
+        {
+            // green --> Green
+            // bob --> Error
+            Console.ForegroundColor = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), colour);
+
+            if (message)
+            {
+                Console.WriteLine($"Console colour was changed to {colour}");
+            }
         }
     }
 }

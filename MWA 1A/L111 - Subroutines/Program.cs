@@ -29,12 +29,14 @@ namespace L111___Subroutines
         {
             Console.Write("Choose a colour: ");
             string input = Console.ReadLine();
-            InitialiseConsoleColour(input, false);
+            InitialiseConsoleColour(input, true);
 
             // Call the subroutine
             SayHello();
             Console.WriteLine("Something else");
             SayHello();
+
+            InitialiseConsoleColour("green", false);
 
             Console.ReadKey();
         }
