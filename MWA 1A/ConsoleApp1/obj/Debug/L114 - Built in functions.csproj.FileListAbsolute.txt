@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\obj\Debug\L114 - Built in functions.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\obj\Debug\L114 - Built in functions.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\obj\Debug\L114 - Built in functions.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
