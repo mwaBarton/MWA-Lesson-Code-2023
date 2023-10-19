@@ -14,7 +14,7 @@ namespace L114___Built_in_functions
             string s = Console.ReadLine();
 
             Console.Write("Select an option (1 = Length, 2 = upper, 3 = lower) ");
-            string option = Console.ReadLine();
+            String option = Console.ReadLine();
 
             switch (option) {
                 case "1":
@@ -36,6 +36,8 @@ namespace L114___Built_in_functions
             while(true) { 
                 Console.Write("Enter a string: ");
                 string userInput = Console.ReadLine();
+
+                FirstTask();
 
                 // Get a particular character
                 char letter = userInput[userInput.Length - 1];
@@ -59,6 +61,14 @@ namespace L114___Built_in_functions
                 // Find the index of a substring
                 int index = userInput.IndexOf("ham");
                 Console.WriteLine(index);
+
+
+                object[] mySillyArray = new object[num];
+
+                mySillyArray[0] = "hello";
+                mySillyArray[1] = 5;
+                mySillyArray[2] = false;
+
 
                 // Comparing strings
                 Console.Write("Enter another string: ");
