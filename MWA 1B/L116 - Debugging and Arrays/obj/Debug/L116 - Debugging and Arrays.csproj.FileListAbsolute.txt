@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\bin\Debug\L116 - Debugging and Arrays.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\bin\Debug\L116 - Debugging and Arrays.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\bin\Debug\L116 - Debugging and Arrays.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\obj\Debug\L116 - Debugging and Arrays.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\obj\Debug\L116 - Debugging and Arrays.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\obj\Debug\L116 - Debugging and Arrays.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\obj\Debug\L116 - Debugging and Arrays.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L116 - Debugging and Arrays\obj\Debug\L116 - Debugging and Arrays.pdb

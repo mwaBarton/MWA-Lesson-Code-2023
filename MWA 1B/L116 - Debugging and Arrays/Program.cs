@@ -8,22 +8,19 @@ namespace L116___Debugging_and_Arrays
 {
     internal class Program
     {
-
-        static void WhatCouldPossiblyGoWrong(int x)
+        static void DoIt()
         {
-            WhatCouldPossiblyGoWrong(x - 1);
+            Console.WriteLine("Just do it!");
         }
 
         static void Main(string[] args)
         {
-
-            //WhatCouldPossiblyGoWrong(10);
-
+            //DoIt();
             //int total = 0;
             //for (int i = 0; i < 1000000; i++)
             //{
             //    total += (int)Math.Pow(i, 2);
-            //    Console.WriteLine($"i: {i}, adding: {(int)Math.Pow(i, 2)}, total: {total}");
+            //    Console.WriteLine($"i: {i}, adding: {(int)Math.Pow(i, 2)}, new total: {total}");
             //}
             //Console.WriteLine(total);
 
@@ -36,25 +33,46 @@ namespace L116___Debugging_and_Arrays
             myArray = new int[6];
 
             myArray[0] = 1;
+
+            num = myArray[5];
+            Console.WriteLine(myArray[4] + 1);
+
+            // Populating an array
+
+            // 1. One index at a time
+            myArray[0] = 1;
             myArray[1] = 1;
             myArray[2] = 2;
             myArray[3] = 3;
             myArray[4] = 5;
             myArray[5] = 8;
 
+            // 2. Using a for loop
             for (int i = 0; i < myArray.Length; i++)
             {
                 Console.Write($"Enter element {i}: ");
                 myArray[i] = int.Parse(Console.ReadLine());
             }
 
-            // Auto-initialise
-            string[] names = { "Matt", "Joe", "Michael", "Aidan", "Dan" ,"Areeb" };
+            // 3. Auto-initialise
+            string[] names = { "Adam", "Adam", "Adam", "Adam" };
+            PrintArray(names);
 
-            Console.WriteLine(myArray[0]);
-
+            // Output array using a for loop
+            PrintArray(myArray);
 
             Console.ReadKey();
+        }
+
+        static void PrintArray<T>(T[] a)
+        {
+            Console.Write("[");
+            for (int i = 0; i < a.Length; i++)
+            {
+                Console.Write(a[i]);
+                if (i < a.Length - 1) Console.Write(", ");
+            }
+            Console.Write("]");
         }
     }
 }
