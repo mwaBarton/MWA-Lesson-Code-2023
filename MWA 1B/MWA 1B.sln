@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L114 - built-in functions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L116 - Debugging and Arrays", "L116 - Debugging and Arrays\L116 - Debugging and Arrays.csproj", "{D9366EF8-2628-4203-B66A-3A495D05D2DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L117 - Lists", "L117 - Lists\L117 - Lists.csproj", "{824BB17B-4B3F-42C8-9AF8-BA69714957D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D9366EF8-2628-4203-B66A-3A495D05D2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9366EF8-2628-4203-B66A-3A495D05D2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9366EF8-2628-4203-B66A-3A495D05D2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824BB17B-4B3F-42C8-9AF8-BA69714957D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824BB17B-4B3F-42C8-9AF8-BA69714957D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824BB17B-4B3F-42C8-9AF8-BA69714957D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824BB17B-4B3F-42C8-9AF8-BA69714957D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
