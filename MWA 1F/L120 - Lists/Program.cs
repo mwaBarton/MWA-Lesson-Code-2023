@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace L120___Lists
 {
@@ -26,28 +24,52 @@ namespace L120___Lists
 
         static void Main(string[] args)
         {
-            List<string> shopping = new List<string>() { "Eggs", "Milk", "Flour" };
-            printList(shopping);
+            //List<string> shopping = new List<string>() { "Eggs", "Milk", "Flour" };
+            //printList(shopping);
 
-            // 4. Split string into list
-            Console.Write("Enter a string with spaces in: ");
-            SplitStringIntoList(Console.ReadLine());
+            //// 4. Split string into list
+            //Console.Write("Enter a string with spaces in: ");
+            //SplitStringIntoList(Console.ReadLine());
 
-            // 3. Remove duplicates
-            List<string> names = new List<string>();
+            //// 3. Remove duplicates
+            //List<string> names = new List<string>();
 
-            bool keepGoing = true;
-            while (keepGoing)
+            //bool keepGoing = true;
+            //while (keepGoing)
+            //{
+            //    Console.Write("Enter a name, or 'done' to stop: ");
+            //    string name = Console.ReadLine();
+
+            //    if (name == "done") keepGoing = false;
+            //    else if (!names.Contains(name)) names.Add(name);
+            //}
+
+            //Console.WriteLine($"There are {names.Count} unique names.");
+            //printList(names);
+
+
+            List<List<int>> multilist = new List<List<int>>();
+
+            multilist.Add(new List<int>());
+            multilist.Add(new List<int>());
+            multilist.Add(new List<int>());
+
+            multilist[0].Add(5);
+
+            List<int> test = multilist[0];
+
+            test.Add(10);
+
+            Console.WriteLine(multilist[0].Count);
+
+            List<List<int>> harry = new List<List<int>>();
+            for(int i = 0; i < multilist.Count; i++)
             {
-                Console.Write("Enter a name, or 'done' to stop: ");
-                string name = Console.ReadLine();
-
-                if (name == "done") keepGoing = false;
-                else if (!names.Contains(name)) names.Add(name);
+                harry.Add(multilist[i]);
             }
 
-            Console.WriteLine($"There are {names.Count} unique names.");
-            printList(names);
+            harry[0].Add(3);
+            Console.WriteLine(harry[0].Count);
 
 
             Console.ReadKey();
