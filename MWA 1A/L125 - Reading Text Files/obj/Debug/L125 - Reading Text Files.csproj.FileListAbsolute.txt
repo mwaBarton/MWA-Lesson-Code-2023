@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\bin\Debug\L125 - Reading Text Files.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\bin\Debug\L125 - Reading Text Files.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\bin\Debug\L125 - Reading Text Files.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\obj\Debug\L125 - Reading Text Files.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\obj\Debug\L125 - Reading Text Files.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\obj\Debug\L125 - Reading Text Files.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\obj\Debug\L125 - Reading Text Files.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L125 - Reading Text Files\obj\Debug\L125 - Reading Text Files.pdb
