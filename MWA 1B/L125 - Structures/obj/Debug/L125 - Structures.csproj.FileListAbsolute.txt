@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\bin\Debug\L125 - Structures.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\bin\Debug\L125 - Structures.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\bin\Debug\L125 - Structures.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\obj\Debug\L125 - Structures.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\obj\Debug\L125 - Structures.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\obj\Debug\L125 - Structures.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\obj\Debug\L125 - Structures.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L125 - Structures\obj\Debug\L125 - Structures.pdb
