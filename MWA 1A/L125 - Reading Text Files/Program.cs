@@ -26,6 +26,26 @@ namespace L125___Reading_Text_Files
                 }
             }
 
+
+
+            // WRITING TO TEXT FILES
+
+            // The easy way
+
+            string toWrite = "Jeff Bezos\nElon Musk";
+            string fileName = "billionaires.bil";
+
+            //File.WriteAllText(fileName, toWrite);
+
+
+            // The proper way
+            using (StreamWriter writer = new StreamWriter(fileName, true))
+            {
+                writer.WriteLine("Jeff Bezos");
+                writer.WriteLine("Elon Musk");
+            }
+
+
             Console.ReadKey();
         }
     }

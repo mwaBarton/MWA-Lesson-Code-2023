@@ -17,11 +17,6 @@ namespace L125___Structures
             public string name;
         }
 
-        static void DoSoemthing(Pencilcase p)
-        {
-
-        }
-
         static void PrintPencilcases(Pencilcase[] cases)
         {
             foreach(Pencilcase p in cases) {
@@ -38,8 +33,6 @@ namespace L125___Structures
             jeremy.numberOfPens = 4;
             jeremy.numberOfPencils = 1;
             jeremy.penColours = new List<string>() { "Black", "Red" };
-
-            DoSoemthing(jeremy);
 
             Pencilcase[] pencilcases = new Pencilcase[2];
             pencilcases[0] = jeremy;
