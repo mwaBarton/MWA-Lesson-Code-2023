@@ -20,6 +20,11 @@ namespace L125_6___Text_Files
             Console.WriteLine($"Contents of {filename} are \"{contents.Replace("\n", ", ")}\"");
 
 
+            string[] lines = File.ReadAllLines(filename);
+            lines[2] = "bread";
+
+            File.WriteAllLines(filename, lines);
+
             // Proper way (write)
             using (StreamWriter writer = new StreamWriter(filename, false))
             {
