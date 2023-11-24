@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\bin\Debug\L125-6 - Text Files.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\bin\Debug\L125-6 - Text Files.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\bin\Debug\L125-6 - Text Files.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\obj\Debug\L125-6 - Text Files.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\obj\Debug\L125-6 - Text Files.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\obj\Debug\L125-6 - Text Files.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\obj\Debug\L125-6 - Text Files.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L125-6 - Text Files\obj\Debug\L125-6 - Text Files.pdb
