@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L125 - Structures", "L125 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L126 - Text Files", "L126 - Text Files\L126 - Text Files.csproj", "{8BA01444-E6FB-460E-83B7-FEFDBB4D0EB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L131 - Arrays of Structures", "L131 - Arrays of Structures\L131 - Arrays of Structures.csproj", "{F8EA326D-6ED2-479F-B7D1-03EC462AC5C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8BA01444-E6FB-460E-83B7-FEFDBB4D0EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA01444-E6FB-460E-83B7-FEFDBB4D0EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA01444-E6FB-460E-83B7-FEFDBB4D0EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EA326D-6ED2-479F-B7D1-03EC462AC5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EA326D-6ED2-479F-B7D1-03EC462AC5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EA326D-6ED2-479F-B7D1-03EC462AC5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EA326D-6ED2-479F-B7D1-03EC462AC5C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
