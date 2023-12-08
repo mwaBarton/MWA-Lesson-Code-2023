@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L125 - Structures", "L125 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L125-6 - Text Files", "L125-6 - Text Files\L125-6 - Text Files.csproj", "{0B554069-E244-4DD5-B55F-653DC91A3A19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L132 - Binary Files", "L132 - Binary Files\L132 - Binary Files.csproj", "{6D51E30B-7E2D-4122-932E-572959C56A22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{0B554069-E244-4DD5-B55F-653DC91A3A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B554069-E244-4DD5-B55F-653DC91A3A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B554069-E244-4DD5-B55F-653DC91A3A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D51E30B-7E2D-4122-932E-572959C56A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D51E30B-7E2D-4122-932E-572959C56A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D51E30B-7E2D-4122-932E-572959C56A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D51E30B-7E2D-4122-932E-572959C56A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
