@@ -50,6 +50,11 @@ namespace L134___Exceptions
                 {
                     score = int.Parse(Console.ReadLine());
 
+                    if (score < 0 || score > 100)
+                    {
+                        throw new ArgumentException("Score must be between 0 and 100%.");
+                    }
+
                     Console.WriteLine("Your grade was " + GradeCalculator(score));
                     valid = true;
                 }

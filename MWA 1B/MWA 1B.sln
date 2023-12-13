@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L131 - Arrays of Structures
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L132 - Binary Files", "L132 - Binary Files\L132 - Binary Files.csproj", "{AC4109DD-AEB2-4082-9095-41665FE252EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L134 - Exceptions", "L134 - Exceptions\L134 - Exceptions.csproj", "{AE652D13-5575-4469-B7D4-466FB1111511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{AC4109DD-AEB2-4082-9095-41665FE252EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC4109DD-AEB2-4082-9095-41665FE252EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC4109DD-AEB2-4082-9095-41665FE252EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE652D13-5575-4469-B7D4-466FB1111511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE652D13-5575-4469-B7D4-466FB1111511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE652D13-5575-4469-B7D4-466FB1111511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE652D13-5575-4469-B7D4-466FB1111511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
