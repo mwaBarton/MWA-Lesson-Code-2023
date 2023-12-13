@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\bin\Debug\L134 - Exceptions but it should work this time.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\bin\Debug\L134 - Exceptions but it should work this time.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\bin\Debug\L134 - Exceptions but it should work this time.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\obj\Debug\L134 - Exceptions but it should work this time.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\obj\Debug\L134 - Exceptions but it should work this time.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\obj\Debug\L134 - Exceptions but it should work this time.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\obj\Debug\L134 - Exceptions but it should work this time.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L134 - Exceptions but it should work this time\obj\Debug\L134 - Exceptions but it should work this time.pdb

@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L125-6 - Text Files", "L125
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L132 - Binary Files", "L132 - Binary Files\L132 - Binary Files.csproj", "{6D51E30B-7E2D-4122-932E-572959C56A22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L134 - Exceptions", "L134 - Exceptions\L134 - Exceptions.csproj", "{EE6A0465-F876-4B8A-9D5B-36A0C769FBF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L134 - Exceptions but it should work this time", "L134 - Exceptions but it should work this time\L134 - Exceptions but it should work this time.csproj", "{62833FDB-0972-4315-8CFE-3AAD5B410316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{6D51E30B-7E2D-4122-932E-572959C56A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D51E30B-7E2D-4122-932E-572959C56A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D51E30B-7E2D-4122-932E-572959C56A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6A0465-F876-4B8A-9D5B-36A0C769FBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6A0465-F876-4B8A-9D5B-36A0C769FBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6A0465-F876-4B8A-9D5B-36A0C769FBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6A0465-F876-4B8A-9D5B-36A0C769FBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
