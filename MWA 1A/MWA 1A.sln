@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L132 - Binary Files", "L132
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L134 - Exceptions", "L134 - Exceptions\L134 - Exceptions.csproj", "{B5DD5CFF-925B-4AA7-A27C-21183C23698D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thief", "Theif\Thief.csproj", "{25A091CB-0EF6-4B2F-B44E-ADAD0B5BC185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{B5DD5CFF-925B-4AA7-A27C-21183C23698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DD5CFF-925B-4AA7-A27C-21183C23698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DD5CFF-925B-4AA7-A27C-21183C23698D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A091CB-0EF6-4B2F-B44E-ADAD0B5BC185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A091CB-0EF6-4B2F-B44E-ADAD0B5BC185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A091CB-0EF6-4B2F-B44E-ADAD0B5BC185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A091CB-0EF6-4B2F-B44E-ADAD0B5BC185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
