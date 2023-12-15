@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L134 - Exceptions", "L134 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L134 - Exceptions but it should work this time", "L134 - Exceptions but it should work this time\L134 - Exceptions but it should work this time.csproj", "{62833FDB-0972-4315-8CFE-3AAD5B410316}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thief", "Thief\Thief.csproj", "{88F0F2D8-82EE-469D-B3A0-FD56E851F454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62833FDB-0972-4315-8CFE-3AAD5B410316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F0F2D8-82EE-469D-B3A0-FD56E851F454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F0F2D8-82EE-469D-B3A0-FD56E851F454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F0F2D8-82EE-469D-B3A0-FD56E851F454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F0F2D8-82EE-469D-B3A0-FD56E851F454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
