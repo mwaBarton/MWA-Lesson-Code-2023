@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\bin\Debug\L149 - Classes and Objects.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\bin\Debug\L149 - Classes and Objects.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\bin\Debug\L149 - Classes and Objects.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\obj\Debug\L149 - Classes and Objects.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\obj\Debug\L149 - Classes and Objects.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\obj\Debug\L149 - Classes and Objects.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\obj\Debug\L149 - Classes and Objects.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L149 - Classes and Objects\obj\Debug\L149 - Classes and Objects.pdb

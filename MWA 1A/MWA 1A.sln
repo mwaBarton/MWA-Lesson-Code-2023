@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thief", "Theif\Thief.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L148 - Classes and Objects", "L148 - Classes and Objects\L148 - Classes and Objects.csproj", "{F55FE27C-59B6-458F-BA54-DF0D05B9E75E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L150 - Access Modifiers and Constructors", "L150 - Access Modifiers and Constructors\L150 - Access Modifiers and Constructors.csproj", "{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F55FE27C-59B6-458F-BA54-DF0D05B9E75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F55FE27C-59B6-458F-BA54-DF0D05B9E75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F55FE27C-59B6-458F-BA54-DF0D05B9E75E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
