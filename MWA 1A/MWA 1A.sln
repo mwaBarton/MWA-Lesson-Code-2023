@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L148 - Classes and Objects"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L150 - Access Modifiers and Constructors", "L150 - Access Modifiers and Constructors\L150 - Access Modifiers and Constructors.csproj", "{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L158 - Searching", "L158 - Searching\L158 - Searching.csproj", "{1BCEB6B2-0D1D-4286-9CB0-23507251AE8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FCA7AE1-6844-4FEF-9F23-4345A30FDF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCEB6B2-0D1D-4286-9CB0-23507251AE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCEB6B2-0D1D-4286-9CB0-23507251AE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCEB6B2-0D1D-4286-9CB0-23507251AE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCEB6B2-0D1D-4286-9CB0-23507251AE8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
