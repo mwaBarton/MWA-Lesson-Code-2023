@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\bin\Debug\L153 - Inheritance.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\bin\Debug\L153 - Inheritance.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\bin\Debug\L153 - Inheritance.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\obj\Debug\L153 - Inheritance.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\obj\Debug\L153 - Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\obj\Debug\L153 - Inheritance.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\obj\Debug\L153 - Inheritance.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L153 - Inheritance\obj\Debug\L153 - Inheritance.pdb

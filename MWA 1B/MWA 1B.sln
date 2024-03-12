@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L149 - Classes and Objects"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L150 - Access Modifiers and Constructors", "L150 - Access Modifiers and Constructors\L150 - Access Modifiers and Constructors.csproj", "{8B2342BE-7A21-409F-B6B2-510BB7B9F64F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L153 - Inheritance", "L153 - Inheritance\L153 - Inheritance.csproj", "{C312B003-5802-4330-BC8B-7EFD6E623306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{8B2342BE-7A21-409F-B6B2-510BB7B9F64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B2342BE-7A21-409F-B6B2-510BB7B9F64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B2342BE-7A21-409F-B6B2-510BB7B9F64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C312B003-5802-4330-BC8B-7EFD6E623306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C312B003-5802-4330-BC8B-7EFD6E623306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C312B003-5802-4330-BC8B-7EFD6E623306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C312B003-5802-4330-BC8B-7EFD6E623306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
