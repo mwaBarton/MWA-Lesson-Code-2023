@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\bin\Debug\L159 - Abstract Methods.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\bin\Debug\L159 - Abstract Methods.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\bin\Debug\L159 - Abstract Methods.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\obj\Debug\L159 - Abstract Methods.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\obj\Debug\L159 - Abstract Methods.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\obj\Debug\L159 - Abstract Methods.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\obj\Debug\L159 - Abstract Methods.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\L159 - Abstract Methods\obj\Debug\L159 - Abstract Methods.pdb
