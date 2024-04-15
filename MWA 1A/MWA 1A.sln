@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L155 - Polymorphism", "L155
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L159 - Abstract Methods", "L159 - Abstract Methods\L159 - Abstract Methods.csproj", "{C0554A1B-1F38-423C-8212-ADD41820F183}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L164 - Interfaces", "L164 - Interfaces\L164 - Interfaces.csproj", "{1BFFDF4C-4340-4471-988A-7BC8856EE190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{C0554A1B-1F38-423C-8212-ADD41820F183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0554A1B-1F38-423C-8212-ADD41820F183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0554A1B-1F38-423C-8212-ADD41820F183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFFDF4C-4340-4471-988A-7BC8856EE190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFFDF4C-4340-4471-988A-7BC8856EE190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFFDF4C-4340-4471-988A-7BC8856EE190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFFDF4C-4340-4471-988A-7BC8856EE190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
