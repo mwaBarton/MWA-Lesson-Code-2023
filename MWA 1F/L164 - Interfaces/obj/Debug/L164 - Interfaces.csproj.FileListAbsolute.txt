@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\bin\Debug\L164 - Interfaces.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\bin\Debug\L164 - Interfaces.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\bin\Debug\L164 - Interfaces.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\obj\Debug\L164 - Interfaces.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\obj\Debug\L164 - Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\obj\Debug\L164 - Interfaces.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\obj\Debug\L164 - Interfaces.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1F\L164 - Interfaces\obj\Debug\L164 - Interfaces.pdb

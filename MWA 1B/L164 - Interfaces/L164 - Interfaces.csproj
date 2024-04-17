@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1BFFDF4C-4340-4471-988A-7BC8856EE190}</ProjectGuid>
+    <ProjectGuid>{27A59B02-3F48-4F88-80CA-44857D607C93}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>L164___Interfaces</RootNamespace>
     <AssemblyName>L164 - Interfaces</AssemblyName>
