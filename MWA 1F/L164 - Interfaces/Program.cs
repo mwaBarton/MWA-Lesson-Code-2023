@@ -19,7 +19,7 @@ namespace L164___Interfaces
         {
             this.duration = duration;
         }
-
+        
         public string GetDescription()
         {
             return "Prison time for " + duration + " days.";
@@ -48,23 +48,33 @@ namespace L164___Interfaces
         }
     }
 
+    interface IAction
+    {
+        void Commit();
+    }
+
     interface ICrime
     {
         int GetSeverity();
         List<IConsequence> Commit();
     }
 
-    class Arson : ICrime
+    class Arson : ICrime, IAction
     {
         public List<IConsequence> Commit()
         {
             Console.WriteLine("Oh dear, some Arson happened.");
-            return new List<IConsequence> { new Heat(1), new PrisonTime(1000) };
+            return new List<IConsequence> { new Heat(1000) };
         }
 
         public int GetSeverity()
         {
             return 5;
+        }
+
+        void IAction.Commit()
+        {
+            throw new NotImplementedException();
         }
     }
 

@@ -1,0 +1,11 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\bin\Debug\BitmapGraphs.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\bin\Debug\BitmapGraphs.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\bin\Debug\BitmapGraphs.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.Properties.Resources.resources
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.csproj.GenerateResource.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1B\BitmapGraphs\obj\Debug\BitmapGraphs.Form1.resources
