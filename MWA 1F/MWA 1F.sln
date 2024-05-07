@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L159 - Abstract Methods", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L164 - Interfaces", "L164 - Interfaces\L164 - Interfaces.csproj", "{36D6B0D0-C0DD-41B5-941E-A128E223260B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L172 - Binary Trees", "L172 - Binary Trees\L172 - Binary Trees.csproj", "{72B61C9F-6E55-4F58-A84F-0D0C2C2A6775}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{36D6B0D0-C0DD-41B5-941E-A128E223260B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D6B0D0-C0DD-41B5-941E-A128E223260B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36D6B0D0-C0DD-41B5-941E-A128E223260B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B61C9F-6E55-4F58-A84F-0D0C2C2A6775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B61C9F-6E55-4F58-A84F-0D0C2C2A6775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B61C9F-6E55-4F58-A84F-0D0C2C2A6775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B61C9F-6E55-4F58-A84F-0D0C2C2A6775}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

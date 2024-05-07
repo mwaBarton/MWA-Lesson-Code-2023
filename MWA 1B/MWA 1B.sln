@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L164 - Interfaces", "L164 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapGraphs", "BitmapGraphs\BitmapGraphs.csproj", "{9DA2E24C-D3A6-4B61-89A6-C806F07E78E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L172 - Binary Trees", "L172 - Binary Trees\L172 - Binary Trees.csproj", "{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{9DA2E24C-D3A6-4B61-89A6-C806F07E78E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA2E24C-D3A6-4B61-89A6-C806F07E78E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA2E24C-D3A6-4B61-89A6-C806F07E78E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
