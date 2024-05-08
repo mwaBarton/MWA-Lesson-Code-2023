@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapGraphs", "BitmapGraph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L172 - Binary Trees", "L172 - Binary Trees\L172 - Binary Trees.csproj", "{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L173 - Hash Tables and Dictionaries", "L173 - Hash Tables and Dictionaries\L173 - Hash Tables and Dictionaries.csproj", "{3644047F-7ED3-4885-9359-3BAF0903F9AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC601A49-7AD1-4D31-8616-7B11F7F9F1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
