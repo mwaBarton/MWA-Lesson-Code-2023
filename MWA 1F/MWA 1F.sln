@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L172 - Binary Trees", "L172
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L173 - Dictionaries", "L173 - Dictionaries\L173 - Dictionaries.csproj", "{F58AAEF6-0A8F-4DF7-8503-AEB8A9477B5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L170 - Cycle Detection", "L170 - Cycle Detection\L170 - Cycle Detection.csproj", "{EC68DFC7-8DB0-47F3-BD6E-48D4A242BAC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{F58AAEF6-0A8F-4DF7-8503-AEB8A9477B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F58AAEF6-0A8F-4DF7-8503-AEB8A9477B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F58AAEF6-0A8F-4DF7-8503-AEB8A9477B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC68DFC7-8DB0-47F3-BD6E-48D4A242BAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC68DFC7-8DB0-47F3-BD6E-48D4A242BAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC68DFC7-8DB0-47F3-BD6E-48D4A242BAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC68DFC7-8DB0-47F3-BD6E-48D4A242BAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

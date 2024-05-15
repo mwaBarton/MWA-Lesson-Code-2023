@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\bin\Debug\L173 - Dictionaries.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\bin\Debug\L173 - Dictionaries.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\bin\Debug\L173 - Dictionaries.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\obj\Debug\L173 - Dictionaries.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\obj\Debug\L173 - Dictionaries.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\obj\Debug\L173 - Dictionaries.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\obj\Debug\L173 - Dictionaries.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L173 - Dictionaries\obj\Debug\L173 - Dictionaries.pdb

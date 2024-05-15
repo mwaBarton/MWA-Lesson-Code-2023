@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L164 - Interfaces", "L164 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L172 - Binary Trees", "L172 - Binary Trees\L172 - Binary Trees.csproj", "{C7E7C988-892C-4E32-B854-FB6D03F081FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L173 - Dictionaries", "L173 - Dictionaries\L173 - Dictionaries.csproj", "{CC9E0266-C495-42DB-BCD9-2DC6DC7F8A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{C7E7C988-892C-4E32-B854-FB6D03F081FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E7C988-892C-4E32-B854-FB6D03F081FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E7C988-892C-4E32-B854-FB6D03F081FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9E0266-C495-42DB-BCD9-2DC6DC7F8A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9E0266-C495-42DB-BCD9-2DC6DC7F8A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9E0266-C495-42DB-BCD9-2DC6DC7F8A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9E0266-C495-42DB-BCD9-2DC6DC7F8A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
