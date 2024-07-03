@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\bin\Debug\L185 - Exceptions 2.exe.config
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\bin\Debug\L185 - Exceptions 2.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\bin\Debug\L185 - Exceptions 2.pdb
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\obj\Debug\L185 - Exceptions 2.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\obj\Debug\L185 - Exceptions 2.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\obj\Debug\L185 - Exceptions 2.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\obj\Debug\L185 - Exceptions 2.exe
+D:\My Drive\0 - Teaching\Computer Science Lessons\MWA-Lesson-Code-2023\MWA 1A\L185 - Exceptions 2\obj\Debug\L185 - Exceptions 2.pdb

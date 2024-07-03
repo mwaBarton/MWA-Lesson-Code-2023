@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L172 - Binary Trees", "L172
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L173 - Hash Tables and Dictionaries", "L173 - Hash Tables and Dictionaries\L173 - Hash Tables and Dictionaries.csproj", "{3644047F-7ED3-4885-9359-3BAF0903F9AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L185 - Custom Exceptions", "L185 - Custom Exceptions\L185 - Custom Exceptions.csproj", "{A79DC976-C1DA-494F-9630-4E75CF57B376}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3644047F-7ED3-4885-9359-3BAF0903F9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79DC976-C1DA-494F-9630-4E75CF57B376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79DC976-C1DA-494F-9630-4E75CF57B376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79DC976-C1DA-494F-9630-4E75CF57B376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79DC976-C1DA-494F-9630-4E75CF57B376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
